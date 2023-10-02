@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nehal</h1>
 <h3 align="center">Always eager to learn. A passionate web developer and game developer.</h3>
 
-- 🌱 I’m currently learning **AWS certified cloud practitioner certification courser**
+- 🌱 I’m currently learning **AWS certified cloud practitioner certification course**
 
 - 👨‍💻 All of my projects are available at [https://nehalpal.netlify.app/](https://nehalpal.netlify.app/)
 
