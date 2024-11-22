@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nehal</h1>
-<h3 align="center">Always eager to learn. A passionate web developer and game developer.</h3>
+<h3 align="center">Always eager to learn. A passionate web developer.</h3>
 
 - 🌱 I’m currently learning **AWS certified cloud practitioner certification course**
 
