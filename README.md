@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nehal.pal20@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1IIfZoXUZ6askbjS2xw55Z1TETaHNAPIn/view?usp=sharing])
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IIfZoXUZ6askbjS2xw55Z1TETaHNAPIn/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
