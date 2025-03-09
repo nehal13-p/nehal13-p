@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS certified cloud practitioner certification course**
 
-- 👨‍💻 All of my projects are available at [https://nehalpal.netlify.app/](https://nehalpal.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nehalpal.netlify.app/)
 
 - 📫 How to reach me **nehal.pal20@gmail.com**
 
